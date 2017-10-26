@@ -1,5 +1,5 @@
 # react版动态简历
-
+[预览](http://htmlpreview.github.io/?https://github.com/whhlulu/reactCV/blob/master/dist/index.html);
 
 ## 使用方法
 
